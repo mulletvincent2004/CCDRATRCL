@@ -1,0 +1,9 @@
+Ball,100
+Lato lato,100
+Net,1000
+Tent,20
+Helmet,0
+
+Tennis Court,1
+Cars,1020
+Chairs,5
